@@ -1,0 +1,5 @@
+->exiftool soru.wav
+
+->stegcracker soru.wav
+
+->"soru.wav.out" file is created.

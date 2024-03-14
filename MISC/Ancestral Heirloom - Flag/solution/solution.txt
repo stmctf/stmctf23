@@ -1,0 +1,5 @@
+->exiftool bayrak.jpeg
+
+->stegcracker bayrak.jpeg
+
+->"stm.jepg.out" file is created.
